@@ -23,23 +23,116 @@
 
 .Aboutme{
   background-color: white;
+  text-align:center;
+  height: 600px;
+  margin:10px;
+  border-width: 2px;
+  border-style: dotted solid;
+  border-color: rgb(177, 174, 174) black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color:black;
+
 }
 .Skills{
   background-color: white;
+  height: 600px;
+  margin:10px;
+  border-width: 2px;
+  border-style: dotted solid;
+  border-color: rgb(177, 174, 174) black;
 }
 .Projects{
   background-color: white;
+  height: 600px;
+  margin:10px;
+  border-width: 2px;
+  border-style: dotted solid;
+  border-color: rgb(177, 174, 174) black;
 }
 .Contact{
   background-color: white;
+  height: 600px;
+  margin:10px;
+  border-width: 2px;
+  border-style: dotted solid;
+  border-color: rgb(177, 174, 174) black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
 }
+
+.piano{
+  background-color: black;
+  width:700px;
+  height:550px;
+  margin:auto;
+  color:white;
+}
+.whitekey1{
+  background-color: white;
+  border-right: black;
+  border-left:white;
+  border-top:white;
+  border-style: solid;
+  width:619px;
+  height:45px;
+  float:left;
+}
+.whitekey2{
+  background-color: white;
+  border-top:white;
+  border-right: white;
+  border-bottom: black;
+  border-left: black;
+  border-style: solid;
+  width:619px;
+  height:45px;
+  float:right;
+}
+
+
+.whitekey3{
+  clear:both;
+  background-color: white;
+  border-right: black;
+  border-left:black;
+  border-top:white;
+  border-style: solid;
+  width:850px;
+  height:75px;
+  margin:auto;
+}
+
+
+.blackkey1{
+  background-color: black;
+  width:300px;
+  height:500px;
+  float:left;
+}
+.blackkey2{
+  background-color: black;
+  width:300px;
+  height:500px;
+  float:right;
+}
+
+
+
 
 .card1{
   margin:70px;
-  width: 23%;
+  width: 22%;
   float: left;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+.cardcontact{
+  width: 100%;
+  margin-top:30px;
+}
+
+.Contacth1{
+  margin-top: 30px;
+}
 
 

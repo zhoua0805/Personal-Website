@@ -5,9 +5,12 @@ import './App.css';
 class Skills extends React.Component {
   render() {
     return (
-      <div className="Skills">
-          <h1>hi it's me</h1>
-      
+      <div className="Skills" id="Skills">
+          <div className="piano">
+                <h1>Skills</h1>
+          </div>
+          <div className="whitekey1"></div>
+          <div className="whitekey2"></div>
       </div>
     );
   }

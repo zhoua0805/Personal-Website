@@ -14,7 +14,7 @@ class Header extends React.Component {
             <div class="navbar-collapse collapse order-1 order-md-0 ml-5 mr-0 ">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="#"> About Me</a>
+                        <a class="nav-link" href="#Aboutme"> About Me</a>
                     </li>
                 </ul>
             </div>
@@ -22,7 +22,7 @@ class Header extends React.Component {
             <div class="navbar-collapse collapse order-2 order-md-0 mx-0 ">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="#"> Projects</a>
+                        <a class="nav-link" href="#Projects"> Projects</a>
                     </li>
                 </ul>
             </div>
@@ -33,7 +33,7 @@ class Header extends React.Component {
           <div class="navbar-collapse collapse order-3 order-md-4 ml-5">
               <ul class="navbar-nav">
                   <li class="nav-item">
-                      <a class="nav-link" href="#"> Skills </a>
+                      <a class="nav-link" href="#Skills"> Skills </a>
                   </li>
               </ul>
           </div>
@@ -41,7 +41,7 @@ class Header extends React.Component {
           <div class="navbar-collapse collapse order-4 order-md-4  p-0">
               <ul class="navbar-nav">
                   <li class="nav-item">
-                      <a class="nav-link" href="#">Contact</a>
+                      <a class="nav-link" href="#Contact">Contact</a>
                   </li>
                 
               </ul>

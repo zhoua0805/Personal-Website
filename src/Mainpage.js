@@ -14,7 +14,7 @@ class Mainpage extends React.Component {
          <div class="card-body">
             <h5 class="card-title">Student Engineer, Life-long Learner</h5>
             <p class="card-text">“Life is like a piano. What you get out of it depends on how you play it.” -Tom Lehrer</p>
-            <a href="#" class="btn btn-primary">Let's start!</a>
+            <a href="#Aboutme" class="btn btn-primary">Let's get started!</a>
          </div>
       </div>
       
